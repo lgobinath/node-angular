@@ -5,4 +5,4 @@ Start the Node server using the following commands:
 cd server
 node server.js
 ```
-To test the server, send a GET request to `https://node-angular-lgobinath.c9users.io:8080/api`
+To test the server, send a GET request to `https://node-angular-lgobinath.c9users.io:8081/api`
