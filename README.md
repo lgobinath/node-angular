@@ -21,4 +21,8 @@ If you do not like `npm start`, use the following command instead:
 ng serve --proxy-config proxy.conf.json --host 0.0.0.0 --port 8080 --disableHostCheck
 ```
 
-See the [commits](https://github.com/lgobinath/node-angular/commits/master) for step by step guidance:
+Reference:
+ - [Angular HttpClient](https://angular.io/guide/http#httpclient)
+ - [Angular Proxy Configuration](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/proxy.md)
+
+See the [commits](https://github.com/lgobinath/node-angular/commits/master) for step by step code changes.
