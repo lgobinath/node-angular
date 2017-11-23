@@ -24,7 +24,7 @@ export class SampleComponent implements OnInit {
   
   /*
    * The HTTP request is aynchronous.
-   * Therefore a callback function si required to get back the response.
+   * Therefore a callback function is required to get back the response.
    */
   onResponse(res: string) {
     this.response = res;
